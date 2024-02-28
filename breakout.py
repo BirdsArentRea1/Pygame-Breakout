@@ -60,8 +60,8 @@ b8 = brick(350, 130)
 b9 = brick(500, 130)
 b10 = brick(650, 130)
   
-level1 = pygame.mixer.music.load('Breakout_phase_1.mp3')
-pygame.mixer.music.play(-1)
+#level1 = pygame.mixer.music.load('Breakout_phase_1.mp3')
+#pygame.mixer.music.play(-1)
 
 while not  doExit: #game loop
     
